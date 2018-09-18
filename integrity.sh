@@ -1,8 +1,5 @@
 #!/bin/bash
 
-#Serhat Yılmaz - 21607858
-#Omer Sahın	- 21328433
-
 
 #Determining the working path. (Path of the files placed.)
 workingPath="$( cd "$(dirname "$0")" ; pwd -P )"
